@@ -16,7 +16,7 @@ Clase 1: 07/08/2023
 * Realizar la primera sincronizacion del proyecto y la nube (Github)
 
 
-#Actividad 3 Hipotesis
+# Actividad 3 Hipotesis
 * Aprendimos que tipos de hipotesis manejamos, sobre alfa y pvalve 
 
 
