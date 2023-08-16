@@ -14,6 +14,3 @@ Clase 1: 07/08/2023
 * crear un proyecto clonando un repositorio de Github
 
 * Realizar la primera sincronizacion del proyecto y la nube (Github)
-
-# Actividad 3 Hipotesis
-* Aprendimos que tipos de hipotesis manejamos, sobre alfa y pvalve 
