@@ -19,5 +19,7 @@ Clase 1: 07/08/2023
 # Actividad 3 Hipotesis
 * Aprendimos que tipos de hipotesis manejamos, sobre alfa y pvalve 
 
+# Actividad 4 
+* Usamos Rstudio para crear graficas como el boxplot y transformamos archivos de excell
 
 
