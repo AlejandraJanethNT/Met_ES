@@ -27,5 +27,8 @@ Clase 1: 07/08/2023
 * mu: media teorica 
 * df: grados de libertad, pasamos el archivo de prueba de muestra a PDF
 
+# Actividad 6
+* Analizamos una tabla de datos de comparativa entre plantas controladas y fertilicidas 
+* Mediante eso sacamos la media, sd, varianza y boxplot 
 
 
