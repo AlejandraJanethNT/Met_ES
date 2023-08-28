@@ -22,4 +22,10 @@ Clase 1: 07/08/2023
 # Actividad 4 
 * Usamos Rstudio para crear graficas como el boxplot y transformamos archivos de excell
 
+# Actividad 5
+* t.test 
+* mu: media teorica 
+* df: grados de libertad, pasamos el archivo de prueba de muestra a PDF
+
+
 
