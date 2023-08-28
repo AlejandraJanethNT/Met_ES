@@ -1,7 +1,6 @@
-# Alejandra Janeth Nuñez Treviño 
+# Alejandra Janeth Nuñez Treviño <33
 # 21/08/2023
 # Matricula: 2070873
-
 
 # Importar datos ----------------------------------------------------------
 # Funcion read.csv (sirve para importar datos csv a R)
@@ -22,11 +21,9 @@ fivenum(mediciones$altura) #Representa los 5 numeros del boxplot
 sd(mediciones$altura)
 var(mediciones$altura)
 
-
 # Gráficas ----------------------------------------------------------------
 
 boxplot(mediciones$altura,col = "blue", ylab = "altura (cm)", main = "Sitio 1", ylim = c(6,14))
-
 
 # Hipótesis ---------------------------------------------------------------
 
@@ -42,7 +39,6 @@ t.test(mediciones$altura,mu=10.5)
 t.test(mediciones$altura,mu=10.6)
 t.test(mediciones$altura,mu=10.55)
 
-
 # Replicabilidad ----------------------------------------------------------
 
 # Guardar la prueba de ten un objeto llamado "prueba"
@@ -50,7 +46,6 @@ prueba<-t.test(mediciones$altura, mu=11)
 
 # Conocer los grados de libertad
 prueba$parameter
-
 # Conocer el p-value
 prueba$p.value
 # Se acepta la H1
