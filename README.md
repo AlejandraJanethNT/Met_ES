@@ -37,5 +37,6 @@ Clase 1: 07/08/2023
 * Hipótesis nula: El matorral al ser una zona más árida, por tanto tiene más diversidad de reptiles.
 * Hipótesis alternativa: En las áreas verdes hay mayor cantidad de reptiles ya que tienen un ecosistema más apto.
 
-
+# Actividad 8 
+* Trabajamos en el archivo 03_prueba_p_una_muestra y lo subimos a Teams
 
