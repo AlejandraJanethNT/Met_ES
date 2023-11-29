@@ -47,3 +47,9 @@ Clase 1: 07/08/2023
 * Comprobamos la linea de regresion y correlacion 
 # Actividad 11
 * Hicimos un trabajo de correlacion, sacando estadisticas descriptivas, correlacion y la hipotesis
+
+# Actividad 11
+* # y: Alfa (l) + b (x) 
+
+#Actividad 12
+* Hicimos el PIA
