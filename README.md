@@ -54,4 +54,4 @@ Clase 1: 07/08/2023
 # Actividad 12
 * Hicimos el PIA
 
-
+![](https://github.com/AlejandraJanethNT/Met_ES/blob/main/Graficas.JPG)
